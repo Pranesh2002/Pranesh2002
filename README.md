@@ -1,8 +1,12 @@
-### Hi there 👋, I'm Pranesh
+### Hi there I'm Pranesh 👋
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranesh-s-13660122a/)
--  Also check my [Leetcode](https://leetcode.com/pranesh172t/), [HackerRank](https://www.hackerrank.com/pranesh172t)
 - 😄 Pronouns: (He/Him)
+- 👨‍🎓 I’m a Btech student at Indian Institute of Information Technology , Sri City.
+- 📫 How to find me:<br />
+      &emsp;📛[LinkedIn](https://www.linkedin.com/in/pranesh-s-13660122a/)<br />
+      &emsp;🔥[Leetcode](https://leetcode.com/pranesh172t/)<br />
+      &emsp;💨[HackerRank](https://www.hackerrank.com/pranesh172t)<br />
+
 <!--
 **Pranesh2002/Pranesh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
