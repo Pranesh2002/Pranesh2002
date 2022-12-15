@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: (He/Him)
 - 👨‍🎓 I’m a Btech student at Indian Institute of Information Technology , Sri City.
-- 📫 How to find me:<br />
+- 📫 You can find me on:<br />
       &emsp;📛[LinkedIn](https://www.linkedin.com/in/pranesh-s-13660122a/)<br />
       &emsp;🔥[Leetcode](https://leetcode.com/pranesh172t/)<br />
       &emsp;💨[HackerRank](https://www.hackerrank.com/pranesh172t)<br />
